@@ -1,0 +1,1 @@
+-- Free script coming soon, purchase premium script at discord.gg/dhmscript
