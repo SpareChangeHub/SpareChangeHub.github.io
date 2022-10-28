@@ -134,5 +134,5 @@ particlesJS('particles-js',
 
 function setHalfVolume() {
   var myAudio = document.getElementById("audio1");
-  myAudio.volume = 0.02;
+  myAudio.volume = 0.0085;
 }
