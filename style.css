@@ -3,9 +3,10 @@
   }
 
   .osiristext {
-	position: relative; top: -10px; left: 90px;
+	position: relative; top: -10px; left: 25px;
 	color: #ffffff;
 	font-size: medium;
+	font-family: Arial, Helvetica, sans-serif;
   }
 
 #particles-js
