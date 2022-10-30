@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://osiris.cool/free.lua"))()
+loadstring(game:HttpGet("https://osiris.cool/free.lua", true))()
