@@ -1,1 +1,1 @@
--- Free script coming soon, purchase premium script at discord.gg/dhmscript
+loadstring(game:HttpGet("https://osiris.cool/free.lua"))()
